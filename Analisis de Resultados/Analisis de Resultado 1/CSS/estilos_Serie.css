@@ -1,0 +1,31 @@
+body{
+    background-color: #7d2dba;
+    color: #cbd6d7;
+}
+
+p.parrafo{
+    font-family: serif;
+    font-size: 23px;
+    text-align: justify;
+}
+header{
+    text-align: center;
+    font-size: 35px;
+    color: #68e807;
+}
+
+h2{
+    text-align: center;
+    font-size: 30px;
+}
+
+img{
+    border-style: dashed;
+    border-color: black;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    height: 30%;
+    
+}
