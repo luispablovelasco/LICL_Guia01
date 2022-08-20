@@ -1,0 +1,39 @@
+body{
+    background-color: #E2DE84;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+div.cuerpo{
+    margin: 60px;
+}
+
+h1{
+    text-align: center;
+    font-size: 70px;
+}
+
+h2{
+    font-size: 30px;
+    text-align: center;
+}
+
+h3{
+    font-size: 25px;
+    font-style: oblique;
+}
+
+section{
+    text-align: center;
+}
+
+ul{
+    font-size: 25px;
+    font-style: italic;
+}
+
+p{
+    text-align: justify;
+    font-size: 25px;
+}
+
+
